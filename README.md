@@ -1,10 +1,11 @@
 # Analysis-of-US-Gun-Sales
 
-*United States law does not mandate a formal record of gun sales. This makes it difficult to quantify metrics relating to the purchase and sale of guns in America. The closest proxy is the FBI's National Instant Criminal Background Check System - Federal Firearms Licensers use the NICS to determine the eligibility of a prospective buyer to purchase a gun.
+*United States law does not mandate a formal record of gun sales. This makes it difficult to quantify metrics relating to the purchase and sale of guns in America. The closest proxy is the FBI's National Instant Criminal Background Check Systemd. A class of gun sellers called Federal Firearms Licensers run the name of a prospective buyer against the NICS to determine their eligibility.
+<br>
 <br>
 The purpose of this analysis is to use the NICS data as a proxy for gun sales at a state level in the United States along with 2011 census data to understand possible correlations between census variables and gun sales.*
 
-&nbsp;&nbsp;
+
 
 ## Table of contents
 [I. Data Overview](#overview) <br/>
