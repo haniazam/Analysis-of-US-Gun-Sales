@@ -25,11 +25,10 @@ The purpose of this analysis is to use the NICS data as a proxy for gun sales at
 Two data sets were used in this analysis:
 
 **1. FBI's National Instant Criminal Background Check System:**<br/>
-    This data comes from the FBI's National Instant Criminal Background Check System.
-
+This data comes from the FBI's National Instant Criminal Background Check System.
 According to FBI.gov:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Mandated by the Brady Handgun Violence Prevention Act of 1993 and launched by the FBI on November 30, 1998, NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms. Before ringing up the sale, cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase. More than 230 million such checks have been made, leading to more than 1.3 million denials.
+Mandated by the Brady Handgun Violence Prevention Act of 1993 and launched by the FBI on November 30, 1998, NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms. Before ringing up the sale, cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase. More than 230 million such checks have been made, leading to more than 1.3 million denials.
 
 The background check data base records the number of background checks conducted per month in each of the 50 U.S. states and five U.S. territories from November 1998 - March 2017. Background checks relating to different transactions (purchase, rental, resale, pawning, etc.) and different gun types (hand gun, long gun, etc) are distinctly recorded.
 
@@ -37,7 +36,7 @@ The original dataset has footnotes among which include:
 
 These statistics represent the number of firearm background checks initiated through the NICS They do not represent the number of firearms sold Based on varying state laws and purchase scenarios, a one-to-one correlation cannot be made between a firearm background check and a firearm sale.
 
-2. U.S. Census Data
+**2. U.S. Census Data**<br/>
 This data comes from the US Census Bureau. It contains demographic statistics relating to economy, housing, race,etc. for each of the 50 states. Most variables just have one data point per state (2016), but a few have data for more than one year (e.g. for 2010).
 
 
@@ -48,7 +47,7 @@ This data comes from the US Census Bureau. It contains demographic statistics re
 
 1. What is the distrubtion of the interest in the three gun types as of 2016 across the 50 states in the United States?
 
-This cursory outlook indicates that the gun sales landscape is dominated by California and Texas. This leads to a potential hypothesis that state population plays a significant role in estimated gun sales in comparison to factors like political affiliation (red vs blue) as Texas and California have the highest state population but opposing political associations.
+>This cursory outlook indicates that the gun sales landscape is dominated by California and Texas. This leads to a potential hypothesis that state population plays a significant role in estimated gun sales in comparison to factors like political affiliation (red vs blue) as Texas and California have the highest state population but opposing political associations.
 
 
 
@@ -56,7 +55,7 @@ This cursory outlook indicates that the gun sales landscape is dominated by Cali
 
 3. What is the estimated gun sales distrubtion across the United States as of 2016?
 
-The distribution of estimated gun sales in 2016 is skewed to the right. The concentration of estimated gun sales appears to collect around the lower end of the distribution.
+>The distribution of estimated gun sales in 2016 is skewed to the right. The concentration of estimated gun sales appears to collect around the lower end of the distribution.
 
 
 
@@ -95,13 +94,13 @@ c) Percent of Foreigners 2011-2015 has the highest (negative) correlation of -0.
 
 6. Which state in America has reported the highest rate of growth in estimated gun sales?
 
-a) Districut of Columbia is the U.S. territory with the highest growth (per CAGR) of estimated gun sales at 21.87%. 
+>a) Districut of Columbia is the U.S. territory with the highest growth (per CAGR) of estimated gun sales at 21.87%. 
 
-b) Massachusetts is the U.S. state with the highest growth (per CAGR) of estimated gun sales at 10.71%.
+>b) Massachusetts is the U.S. state with the highest growth (per CAGR) of estimated gun sales at 10.71%.
 
 7. What trends can be observed in estimated gun sales over time in America?
 
-There is an exponential increase in the estimated gun sales over time in America between 1998-2016. Major points of inflection include:
+>There is an exponential increase in the estimated gun sales over time in America between 1998-2016. Major points of inflection include:
 
 
 2001: The year of the 9/11 attacks.
@@ -118,7 +117,7 @@ Seasonally Adjusted Trend in Estimated Gun Sales [1999-2016]
 
 5. What is the seasonal (monthly) trend in estimated gun sales?
 
-There is a significant spike in the estimated gun sales in the month of December. It should be noted that the events listed above in (4) all occured around December.
+>There is a significant spike in the estimated gun sales in the month of December. It should be noted that the events listed above in (4) all occured around December.
 
 
 
@@ -132,23 +131,6 @@ VI. Limitations
 
 
 <a name="overview"></a>
-## II. Data Overview
-Two data sets were used in this analysis:
-1. **FBI's National Instant Criminal Background Check System:**<br/>
-This data comes from the FBI's National Instant Criminal Background Check System.
-
-  According to [FBI.gov](https://www.fbi.gov/services/cjis/nics):
-
-> Mandated by the Brady Handgun Violence Prevention Act of 1993 and launched by the FBI on November 30, 1998, NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms. Before ringing up the sale, cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase. More than 230 million such checks have been made, leading to more than 1.3 million denials.
-
-The background check data base records the number of background checks conducted *per month* in each of the 50 U.S. states and five U.S. territories from *November 1998 - March 2017*. Background checks relating to different transactions (purchase, rental, resale, pawning, etc.) and different gun types (hand gun, long gun, etc) are distinctly recorded.
-
-The original dataset has footnotes among which include:
->These statistics represent the number of firearm background checks initiated through the NICS They **do not** represent the number of firearms sold Based on varying state laws and purchase scenarios, a one-to-one correlation cannot be made between a firearm background check and a firearm sale.
-
-2. **U.S. Census Data**<br/>
-This data comes from the US Census Bureau. It contains demographic statistics relating to economy, housing, race,etc. for each of the 50 states. Most variables just have one data point per state (2016), but a few have data for more than one year (e.g. for 2010).
-
 
 
 
