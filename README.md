@@ -7,8 +7,8 @@ The purpose of this analysis is to use the NICS data as a proxy for gun sales at
 
 
 ## Table of contents
-[I. Data Overview](#overview)
-[II. Research Questions ](#conclusions) <br/>
+1. [I. Data Overview](#overview)
+2. [II. Research Questions ](#conclusions) <br/>
     1. [Research Question 1](#ans1)<br/>
     2. [Research Question 2](#ans2)<br/>
     3. [Research Question 3](#ans3)<br/>
@@ -17,7 +17,7 @@ The purpose of this analysis is to use the NICS data as a proxy for gun sales at
     6. [Research Question 6](#ans6)<br/>
     7. [Research Question 7](#ans7)<br/>
     8. [Research Question 8](#ans8)<br/>
-[IV. Data Limitations](#limitations) <br/>
+3. [IV. Data Limitations](#limitations) <br/>
 
 
 <a name="overview"></a>
@@ -25,7 +25,8 @@ The purpose of this analysis is to use the NICS data as a proxy for gun sales at
 Two data sets were used in this analysis:
 
 1. FBI's National Instant Criminal Background Check System:
->This data comes from the FBI's National Instant Criminal Background Check System.
+
+This data comes from the FBI's National Instant Criminal Background Check System.
 
 According to FBI.gov:
 
