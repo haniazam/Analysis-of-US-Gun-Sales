@@ -4,29 +4,28 @@
 <br>
 The purpose of this analysis is to use the NICS data as a proxy for gun sales at a state level in the United States along with 2011 census data to understand possible correlations between census variables and gun sales.*
 
-
+&nbsp;&nbsp;
 
 ## Table of contents
 [I. Data Overview](#overview) <br/>
 [II. Research Questions ](#conclusions) <br/>
-    1. [Research Question 1](#ans1)<br/>
-    2. [Research Question 2](#ans2)<br/>
-    3. [Research Question 3](#ans3)<br/>
-    4. [Research Question 4](#ans4)<br/>
-    5. [Research Question 5](#ans5)<br/>
-    6. [Research Question 6](#ans6)<br/>
-    7. [Research Question 7](#ans7)<br/>
-    8. [Research Question 8](#ans8)<br/>
-3. [IV. Data Limitations](#limitations) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;1. [Research Question 1](#ans1)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;2. [Research Question 2](#ans2)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;3. [Research Question 3](#ans3)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;4. [Research Question 4](#ans4)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;5. [Research Question 5](#ans5)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;6. [Research Question 6](#ans6)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;7. [Research Question 7](#ans7)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;8. [Research Question 8](#ans8)<br/>
+[IV. Data Limitations](#limitations) <br/>
 
 
 <a name="overview"></a>
 ## I. Data Overview
 Two data sets were used in this analysis:
 
-1. FBI's National Instant Criminal Background Check System:
-
-This data comes from the FBI's National Instant Criminal Background Check System.
+**1. FBI's National Instant Criminal Background Check System:**
+    This data comes from the FBI's National Instant Criminal Background Check System.
 
 According to FBI.gov:
 
