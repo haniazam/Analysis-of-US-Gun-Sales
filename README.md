@@ -7,8 +7,8 @@ The purpose of this analysis is to use the NICS data as a proxy for gun sales at
 
 
 ## Table of contents
-1. [I. Data Overview](#overview)
-2. [II. Research Questions ](#conclusions) <br/>
+[I. Data Overview](#overview) <br/>
+[II. Research Questions ](#conclusions) <br/>
     1. [Research Question 1](#ans1)<br/>
     2. [Research Question 2](#ans2)<br/>
     3. [Research Question 3](#ans3)<br/>
