@@ -9,7 +9,7 @@ The purpose of this analysis is to use the NICS data as a proxy for gun sales at
 ## Table of contents
 [I. Data Overview](#overview) <br/>
 [II. Research Questions ](#conclusions) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;1. [Research Question 1](#ans1)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;u. [Research Question 1](#ans1)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;2. [Research Question 2](#ans2)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;3. [Research Question 3](#ans3)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;4. [Research Question 4](#ans4)<br/>
@@ -24,12 +24,12 @@ The purpose of this analysis is to use the NICS data as a proxy for gun sales at
 ## I. Data Overview
 Two data sets were used in this analysis:
 
-**1. FBI's National Instant Criminal Background Check System:**
+**1. FBI's National Instant Criminal Background Check System:**<br/>
     This data comes from the FBI's National Instant Criminal Background Check System.
 
 According to FBI.gov:
 
-Mandated by the Brady Handgun Violence Prevention Act of 1993 and launched by the FBI on November 30, 1998, NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms. Before ringing up the sale, cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase. More than 230 million such checks have been made, leading to more than 1.3 million denials.
+&nbsp;&nbsp;&nbsp;&nbsp;Mandated by the Brady Handgun Violence Prevention Act of 1993 and launched by the FBI on November 30, 1998, NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms. Before ringing up the sale, cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase. More than 230 million such checks have been made, leading to more than 1.3 million denials.
 
 The background check data base records the number of background checks conducted per month in each of the 50 U.S. states and five U.S. territories from November 1998 - March 2017. Background checks relating to different transactions (purchase, rental, resale, pawning, etc.) and different gun types (hand gun, long gun, etc) are distinctly recorded.
 
